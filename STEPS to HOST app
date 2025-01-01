@@ -1,0 +1,6 @@
+To Host the app and run it follqw the given steps:
+1.Create folder and download the files given in the repositary like app.py,dataser file etc to folder.
+2. Open the folder and VSCODE and open app.py file.
+3.On terminal run the command: pip install streamlit pandas requests scikit-learn .This will install all dependencies.
+4.To run on local host run command :streamlit run app.py.You will be directed to localHost and then choose the movie you wish for,You will get all the corresponding movies.
+
